@@ -1,2 +1,2 @@
 # quarto-presentation
-Template for Quarto Presenation
+Template for Quarto Presentation
